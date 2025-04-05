@@ -1,0 +1,4 @@
+@charset "utf-8";
+/* Tercer Código CSS */
+p:nth-child(odd){color: #9531C8;}
+p:nth-child(even){color: #05BEC7;}
